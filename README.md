@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Steven Sandoval and i am currently a student on learning ASP.Net
 <!--
 **StevenS2018/StevenS2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
